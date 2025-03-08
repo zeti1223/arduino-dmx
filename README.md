@@ -2,5 +2,5 @@
 parts:
   -Dmx port female, male
   -2pcs max485
-  -6pcs 7segment display
+  -i2c lcd screen
   -encoder
